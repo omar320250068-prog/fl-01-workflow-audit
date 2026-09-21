@@ -40,4 +40,8 @@ HOW TO WORK WITH ME
 CURRENT WEEK
 FL-02: validating a small sitemap (Home, Projects, short About, footer CTA
 for contact) against the claim and the one action.
+
+MY VOICE (standing instruction, all future drafts)
+direct, plain, no buzzwords, honest. Use my words. If a borrowed AI phrase
+would never come out of my mouth, cut it.
 ```
